@@ -6,10 +6,21 @@ import com.estf.todoapp.beans.Todo;
 import com.estf.todoapp.dao.TodoDao;
 import com.estf.todoapp.dao.TodoDaoMemory;
 
+//Singleton
+// 1- private constructor
+// 2- instance statique sur la classe elle meme
+// 3- mehtode static qui retourne cette instance statique
 public class DefaultServices implements Services{
 
+	private static DefaultServices instance = null;
+	public static DefaultServices getInstance() {
+		if(instance==null)
+			instance=new DefaultServices(new TodoDaoMemory());
+		return instance;
+	}
+	
 	private TodoDao todoDao;
-	public DefaultServices(TodoDao todoDao) {
+	private DefaultServices(TodoDao todoDao) {
 		this.todoDao=todoDao;
 	}
 	@Override

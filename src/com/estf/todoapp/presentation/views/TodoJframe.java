@@ -9,6 +9,7 @@ public class TodoJframe extends JFrame{
 	private JPanel rootPanel;
 	private TodoForm todoForm;
 	private TodoList todoList;
+	
 	public TodoJframe() {
 		super("Todo App");
 		setSize(1000, 700);

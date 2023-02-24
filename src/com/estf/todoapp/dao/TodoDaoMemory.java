@@ -11,6 +11,8 @@ public class TodoDaoMemory implements TodoDao{
 	private int lastIndex=0;
 	public TodoDaoMemory() {
 		todos=new Vector<Todo>();
+		insert(new Todo("rdv dentiste",false));
+		insert(new Todo("rdv docteur",true));
 	}
 	@Override
 	public Todo insert(Todo todo) {

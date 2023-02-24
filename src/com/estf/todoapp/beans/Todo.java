@@ -9,9 +9,8 @@ public class Todo {
 	public Todo() {
 		super();
 	}
-	public Todo(String id, String title, boolean completed) {
+	public Todo(String title, boolean completed) {
 		super();
-		this.id = id;
 		this.title = title;
 		this.completed = completed;
 	}
