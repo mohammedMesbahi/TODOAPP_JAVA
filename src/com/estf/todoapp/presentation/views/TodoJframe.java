@@ -18,8 +18,8 @@ public class TodoJframe extends JFrame{
 	    rootPanel = new JPanel();
 	    rootPanel.setLayout(new FlowLayout());
 	    
-	    todoForm=new TodoForm();
 	    todoList=new TodoList();
+	    todoForm=new TodoForm(todoList);
 	    
 	    rootPanel.add(todoForm);
 	    rootPanel.add(todoList);

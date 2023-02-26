@@ -19,5 +19,13 @@ public class TodoList extends JPanel{
 			add(new TodoItemPanel(todo,this));
 		}
 	}
+	public void  addNewTodo(Todo todo) {
+		DefaultServices.getInstance().addTodo(todo);
+		todos=DefaultServices.getInstance().getAllTodos();
+		add(new TodoItemPanel(todo,this));
+		this.revalidate();
+		this.repaint();
+
+	}
 	
 }

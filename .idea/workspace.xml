@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92d85e13-6460-417e-bf4d-3249a1845ac6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/beans/Todo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/beans/Todo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/business/DefaultServices.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/business/DefaultServices.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/business/Services.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/business/Services.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/dao/TodoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/dao/TodoDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/dao/TodoDaoMemory.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/dao/TodoDaoMemory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/controllers/DeleteTodoAction.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/controllers/DeleteTodoAction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/views/TodoForm.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/views/TodoForm.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/views/TodoItemPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/views/TodoItemPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/views/TodoJframe.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/views/TodoJframe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/views/TodoList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/presentation/views/TodoList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/com/estf/todoapp/utils/InputBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/com/estf/todoapp/utils/InputBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/estf/todoapp/presentation/views/TodoForm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/estf/todoapp/presentation/views/TodoForm.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/com/estf/todoapp/presentation/Main.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MB0MH7xGHPLVZfWY51ZwtzqBzy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92d85e13-6460-417e-bf4d-3249a1845ac6" name="Changes" comment="" />
+      <created>1677225624005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677225624005</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
